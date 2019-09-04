@@ -1,0 +1,6 @@
+com/bing/controller/UserController.class
+com/bing/entity/User.class
+com/bing/UserCenter.class
+com/bing/service/IUserService.class
+com/bing/dao/IUserDao.class
+com/bing/entity/UserVo.class
